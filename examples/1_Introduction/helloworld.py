@@ -23,3 +23,5 @@ sess = tf.Session()
 
 # Run the op
 print(sess.run(hello))
+print("===============")
+print(hello)
